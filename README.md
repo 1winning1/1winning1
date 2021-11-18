@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @1winning1
+- 👀 I’m interested in cryptocurrencys
+- 🌱 I’m currently learning RUST
+- 💞️ I’m looking to collaborate on testnetworks
+- 📫 How to reach me : Discord: 1winning1#0322
